@@ -2,8 +2,6 @@
 <classpath>
 	<classpathentry excluding="Source Code/|Sources Files/" kind="src" path="src"/>
 	<classpathentry kind="src" path="sprites"/>
-	<classpathentry kind="src" path="src/Source Code"/>
-	<classpathentry kind="src" path="src/Sources Files"/>
 	<classpathentry kind="src" path="photoshop"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
